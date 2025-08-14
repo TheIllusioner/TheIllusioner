@@ -1,9 +1,9 @@
-TOMONA OISHI (ILLUSIONER)
+### TOMONA OISHI (ILLUSIONER)
+->  UMD '29 <br>
+->  Comp Sci
 
->  UMD '29
->  Comp Sci
 
-Making things...
+<pre>Making things...
               //\\//\\//\\                        . --  ----  ----.
 <||//\\       \\        //                      O( Think about it! )
       //\\//\\//        \\                    o   \__--___--__--__/
@@ -11,7 +11,7 @@ Making things...
                         \\            /  @  /~~~~~~<
                         //\\//\\//\\//._   `=._
                                          """"
-                                       Going places...
+                                       Going places...</pre>
 
                                        
 <!---
